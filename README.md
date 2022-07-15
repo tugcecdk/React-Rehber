@@ -1,2 +1,2 @@
 # React-Rehber
-  ![Contacts](proje.png)
+  ![Contacts](contact.png)
